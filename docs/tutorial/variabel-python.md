@@ -42,12 +42,12 @@ print("Biodata\n", nama, "\n", umur, "\n", hobi)
 #contoh variabel lainya
 inivariabel = "Halo"
 ini_juga_variabel = "Hai"
-\_inivariabeljuga = "Hi"
+_inivariabeljuga = "Hi"
 inivariabel222 = "Bye"
 
 panjang = 10
 lebar = 5
-luas = panjang \* lebar
+luas = panjang * lebar
 print(luas)
 ```
 
