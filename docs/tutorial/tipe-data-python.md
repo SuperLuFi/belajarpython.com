@@ -39,7 +39,8 @@ print(20)
 print(3.14)
 
 #tipe data Hexadecimal
-print(9a)
+print("9a")
+print(int("9a", 16))  #Untuk melihat nilai yang sebenarnya dari hexadecimal 9a
 
 #tipe data Complex
 print(5j)
